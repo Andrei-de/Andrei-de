@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Andrei Amarie
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML5, CSS, JAVASCRIPT.
+- 📫 How to reach me: www.1portofolio.com    or   Dreandrew99@gmail.com
